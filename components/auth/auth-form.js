@@ -89,6 +89,7 @@ function AuthForm() {
           </button>
         </div>
       </form>
+      <button onClick={signIn}>SignIn using Providers</button>
     </section>
   );
 }
